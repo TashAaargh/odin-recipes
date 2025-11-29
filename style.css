@@ -1,7 +1,22 @@
+body {
+    font-family: papyrus, copperplate, fantasy;
+}
+
+div{
+    display: inline-block;
+}
+
 h1 {
     padding: 60px 50%;
-    background-color: #fcd303;
-    font-family: papyrus, copperplate, fantasy ;
+    background-color: rgb(252, 211, 3);
     color: rgb(252, 94, 3);
+    margin: 20px 20px 40px 20px;
 }
+
+.recipes {
+    margin: 0px 20px;
+    background-color: #fcefa9;
+    padding: 60px 25%;
+}
+
 
